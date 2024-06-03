@@ -1,1 +1,2 @@
-# european-eelctions-greece
+# European Elections (Greece)
+The <strong>European Elections (Greece)</strong> package provides functionalities to compute seat distribution using the d'Hondt method for electoral results in the EP elections in Greece. It allows users to calculate the allocation of seats based on party percentages and configurable thresholds.
