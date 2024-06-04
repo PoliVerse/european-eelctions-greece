@@ -8,6 +8,10 @@
   },
   "keywords": [],
   "author": "Petros Devrikis",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PoliVerse/european-elections-greece.git"
+  },
   "license": "ISC",
   "devDependencies": {
     "jest": "^29.7.0"
