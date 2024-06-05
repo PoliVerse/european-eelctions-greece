@@ -6,6 +6,9 @@
   "scripts": {
     "test": "jest"
   },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
   "keywords": [],
   "author": "Petros Devrikis",
   "repository": {
@@ -13,7 +16,8 @@
     "url": "git+https://github.com/PoliVerse/european-elections-greece.git"
   },
   "license": "ISC",
-  "devDependencies": {
-    "jest": "^29.7.0"
-  }
+  "bugs": {
+    "url": "https://github.com/PoliVerse/european-elections-greece/issues"
+  },
+  "homepage": "https://github.com/PoliVerse/european-elections-greece#readme"
 }
